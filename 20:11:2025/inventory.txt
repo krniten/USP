@@ -1,0 +1,5 @@
+1,Laptop,Electronics,50,55000
+2,Mouse,Accessories,150,500
+3,Keyboard,Accessories,120,800
+4,Chair,Furniture,30,3000
+5,Table,Furniture,20,7000
